@@ -40,6 +40,9 @@ body{
     border-radius:5px;
     margin-top:42px;
     margin-bottom: 12px;
+    color:white;
+    font-size: 24px;
+    font-weight: bold;
 }
 #btn_clear ,#btn_delete{
     border:2px solid black;
@@ -53,7 +56,7 @@ body{
     font-weight: bold;
     background-color: #E1903E;
 }
-#btn_operation{
+.btn_operation{
     border:2px solid black;
     width:55px;
     height: 42px;
@@ -66,8 +69,7 @@ body{
     background-color: #D8560E;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2); 
 }
-
-#btn{
+.btn{
     border:2px solid black;
     width:55px;
     height: 42px;
