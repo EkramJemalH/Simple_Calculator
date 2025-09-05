@@ -83,7 +83,7 @@ This project is open-source and free to use.
 
 ## Author
 
-- Your Name
+- Name:Ekram Jemal Hassen
 - Contact: ekramjemalh@gmail.com
 ## Socials
 linkdin:https://www.linkedin.com/in/ekram-jemalh-446978317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
